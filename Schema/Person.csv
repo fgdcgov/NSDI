@@ -1,1 +1,6 @@
-
+Fieldset,Property,Expected Type,Description
+Contact,givenName,Text,The First name of a person
+Contact,familyName,Text,The last name of a person
+Contact,givenName,Text, 
+Contact,email,text,Email address of the Individual
+Contact,image
