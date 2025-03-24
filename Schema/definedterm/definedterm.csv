@@ -1,11 +1,10 @@
 Type,Fieldset,Position,Property,Description
 DefinedTerm,Term,01,name,The term name
-,,02,description,(blank)
-,,(blank),alternateName,(blank)
-,,,image,(blank)
-,,,inDefinedTermset,A DefinedTermSet that contains this term.
-,,,keywords,(blank)
-,,,sameAs,(blank)
-,,,subjectOf,(blank)
-,,,termCode,A code that identifies this DefinedTerm within a DefinedTermSet.
-,,,url,URL of a reference Web page that unambiguously indicates the item's identity. E.g. the URL of the item's Wikipedia page, Wikidata entry, or official website.
+DefinedTerm,Term,02,description,(blank)
+DefinedTerm,Term,(blank),alternateName,(blank)
+DefinedTerm,Term,(blank),image,(blank)
+DefinedTerm,Term,(blank),inDefinedTermset,A DefinedTermSet that contains this term.
+DefinedTerm,Term,(blank),keywords,(blank)
+DefinedTerm,Term,(blank),sameAs,(blank)
+DefinedTerm,Term,(blank),subjectOf,(blank)
+DefinedTerm,Term,(blank),termCode,A code that identifies this DefinedTerm within a DefinedTermSet.
