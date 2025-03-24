@@ -1,0 +1,14 @@
+Type,Fieldset,Property,Expected Type,Description,Example
+Person,Contact,givenName,TextType,The First name of a person,Jane
+Person,Contact,familyName,TextType,The last name of a person,Smith
+Person,Contact,email,TextType,Email address of the Individual,janesmith@org.gov
+Person,Contact,image,ImageObject,Upload an image of the person, uploaded file
+Person,Contact,jobTitle,TextType,The job title of the person,Geospatial Information Officer
+Organization,Organization,memberOf,TextType,An Organization to which this person belongs, Steering Committee
+Organization,subOrganization,TextType,TBD,TBD
+Organization,Organization,department, TextType, "TBD",Department of Interior
+Organization,Organization, affiliation, TextType, "TBD",The organization that this person is affiliated with
+Membership,members,TextType,"TBD","TBD"
+Membership,Membership,memberof,TextType,"TBD","TBD"
+Membership,Membership,partentOrganization,TextType,"TBD",TBD
+
