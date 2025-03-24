@@ -2,7 +2,7 @@ Fieldset,Property,Expected Type,Description,Example
 Contact,givenName,TextType,The First name of a person,Jane
 Contact,familyName,TextType,The last name of a person,Smith
 Contact,email,TextType,Email address of the Individual,janesmith@org.gov
-Contact,image,ImageType,Upload an image of the person, uploaded file
+Contact,image,ImageObject,Upload an image of the person, uploaded file
 Contact,jobTitle,TextType,The job title of the person,Geospatial Information Officer
 Organization,memberOf,TextType,An Organization to which this person belongs, Steering Committee
 Organization,subOrganization,TextType,TBD,TBD
