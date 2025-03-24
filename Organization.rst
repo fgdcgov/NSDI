@@ -9,8 +9,8 @@ This table provides a list of terms provided in the Geospatial Data Act of 2018
     :header-rows: 1
     :stub-columns: 1
 
-    * - Term
-      - Term Definition
+    * - Property
+      - Expected Type
     * - Advisory Committee
       - the term Advisory Committee means the National Geospatial Advisory Committee established under section 754(a);
     * - Committee
