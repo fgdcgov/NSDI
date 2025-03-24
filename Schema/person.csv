@@ -3,3 +3,4 @@ Contact,givenName,Text,The First name of a person
 Contact,familyName,Text,The last name of a person
 Contact,email,text,Email address of the Individual
 Contact,image,upload an image, image
+Contact,jobTitle,text, "=HYPERLINK(""http://www.yahoo.com"";""See Yahoo"")"
