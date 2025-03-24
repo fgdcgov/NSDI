@@ -2,7 +2,7 @@ Type,Fieldset,Position,Property,Description
 DefinedTerm,Term,(blank),image,https://schema.org/image,(blank),"(blank)"
 DefinedTerm,Term,(blank),inDefinedTermset,https://schema.org/inDefinedTermset,A DefinedTermSet that contains this term.,"(blank)"
 DefinedTerm,Term,(blank),keywords,https://schema.org/keywords,(blank),"(blank)"
-DefinedTerm,Term,(blank),sameAs,https://schema.org/sameAs,(blank),"(blank)"
+DefinedTerm,Term,(blank),sameAs,https://schema.org/sameAs,(blank),'(blank)'
 DefinedTerm,Term,(blank),subjectOf,https://schema.org/subjectOf,(blank),"(blank)"
 DefinedTerm,Term,(blank),termCode,https://schema.org/termCode,A code that identifies this DefinedTerm within a DefinedTermSet.,"1.5.1"
 DefinedTerm,Term,(blank),url,https://schema.org/url,URL of a reference Web page that unambiguously indicates the item's identity. E.g. the URL of the item's Wikipedia page, Wikidata entry, or official website.,"(blank)"
