@@ -5,7 +5,7 @@ Organization,Organization Information,subOrganization,TextType,TBD,TBD
 Organization,Organization Information,department, TextType, "TBD",Department of Interior
 Organization,Organization,affiliation,TextType, "TBD",The organization that this person is affiliated with
 Organization,Organization Information,branchCode,TextType,"TBD","TBD"
-Organization,Organization Information,telephone,TextType,"TBD,TBD"
+Organization,Organization Information,telephone,TextType,"TBD,"TBD"
 Membership,Membership Organization,partentOrganization,TextType,"TBD",TBD
 Membership,Membership Organization,hostingOrganization,TextType,"The organization the member belongs to",Federal Geographic Data Committee
 Membership,Membership Organization,memberof,TextType,"TBD","Steering Committee"
