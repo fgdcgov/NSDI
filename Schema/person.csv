@@ -1,6 +1,6 @@
-Fieldset,Property,Expected Type,Description
-Contact,givenName,Text,The First name of a person
-Contact,familyName,Text,The last name of a person
-Contact,email,text,Email address of the Individual
-Contact,image,upload an image, image
-Contact,jobTitle,text,"[Link text](https://website-name.com)"
+Fieldset,Property,Expected Type,Description,Example
+Contact,givenName,TextType,The First name of a person, Jane
+Contact,familyName,TextType,The last name of a person, Smith
+Contact,email,TextType,Email address of the Individual,janesmith@org.gov
+Contact,image,ImageType,Upload an image of the person
+Contact,jobTitle,TextType,The job title of the person, Geospatial Information Officer
