@@ -8,7 +8,7 @@ Organization,memberOf,TextType,An Organization to which this person belongs, Ste
 Organization,subOrganization,TextType,TBD,TBD
 Organization,department, TextType, "TBD",Department of Interior
 Organization, affiliation, TextType, "TBD",The organization that this person is affiliated with
-Organization, members,TextType,"TBD","TBD"
-Organization, memberof,
-Organization,partentOrganization,TextType,"TBD",TBD
+Membership,members,TextType,"TBD","TBD"
+Membership,memberof,TextType,"TBD","TBD"
+Membership,partentOrganization,TextType,"TBD",TBD
 
