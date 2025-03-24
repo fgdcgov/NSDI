@@ -1,4 +1,4 @@
-Type,Fieldset,Position,Property,DescriptionType,Fieldset,Position,Property,Property Reference Link,Description,"Example1 "
+Type,Fieldset,Position,Property,Property Reference Link,Description,"Example1 "
 DefinedTerm,Term,(blank),image,https://schema.org/image,(blank),"(blank)"
 DefinedTerm,Term,(blank),inDefinedTermset,https://schema.org/inDefinedTermset,A DefinedTermSet that contains this term.,"(blank)"
 DefinedTerm,Term,(blank),keywords,https://schema.org/keywords,(blank),"(blank)"
