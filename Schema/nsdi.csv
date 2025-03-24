@@ -10,7 +10,7 @@ Membership,Membership Organization,partentOrganization,TextType,"TBD","TBD"
 Membership,Membership Organization,hostingOrganization,TextType,"The organization the member belongs to",Federal Geographic Data Committee
 Membership,Membership Organization,memberof,TextType,"TBD","Steering Committee"
 Membership,Membership Organization,member,TextType,"TBD","TBD"
-Membership,hostingOrganization,TextType,"The organization the member belongs to",Federal Geographic Data Committee
+Membership,Membership Organization,hostingOrganization,TextType,"The organization the member belongs to",Federal Geographic Data Committee
 Address,Business Address,addressCountry,TextType,The country of the person  2-Letter ISO 3166-1 Alpha-2 format., US
 Address,Business Address,addressLocality,TextType,The locality within the country, Reston
 Address,Business Address,addressRegion,TextType,The region/administrative division, Virginia
