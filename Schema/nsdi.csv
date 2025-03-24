@@ -11,7 +11,7 @@ Organization,Organization, affiliation, TextType, "TBD",The organization that th
 Membership,Membership,members,TextType,"TBD","TBD"
 Membership,Membership,memberof,TextType,"TBD","TBD"
 Membership,Membership,partentOrganization,TextType,"TBD",TBD
-Postal Address,Business Address,addressCountry,TextType,The country of the person  2-Letter ISO 3166-1 Alpha-2 format., US
-Postal Address,Business Address,addressLocality,TextType,The locality within the country, Reston
-Postal Address,Business Address,addressRegion,TextType,The region/administrative division, Virginia
-Postal Address,Business Address,postalCode,TextType,The postal code for the address, 20192 
+Address,Business Address,addressCountry,TextType,The country of the person  2-Letter ISO 3166-1 Alpha-2 format., US
+Address,Business Address,addressLocality,TextType,The locality within the country, Reston
+Address,Business Address,addressRegion,TextType,The region/administrative division, Virginia
+Address,Business Address,postalCode,TextType,The postal code for the address, 20192 
