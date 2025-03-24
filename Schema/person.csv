@@ -10,5 +10,5 @@ Organization,department, TextType, "TBD",Department of Interior
 Organization, affiliation, TextType, "TBD",The organization that this person is affiliated with
 Organization, members,TextType,"TBD","TBD"
 Organization, memberof,
-Organization,partentOrganization
-Organization,participant,
+Organization,partentOrganization,TextType,"TBD",TBD
+
