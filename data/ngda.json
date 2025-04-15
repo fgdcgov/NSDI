@@ -2,7 +2,7 @@
   "id": "state-stac",
   "stac_version": "1.0.0",
   "title": " NGDA",
-  "description": "This Collection is a virtual catalog of National Geospatial Data Assets (NGDA) provided by United States federal agencies.",
+  "description": "This Collection is a virtual catalog of National Geospatial Data Assets (NGDA) provided by United States federal agencies. \n![NGDA Portfolio](https://geoplatform.maps.arcgis.com/sharing/rest/content/items/9f1c9adb275f4f47b446e91181afa081/data) ",
   "type": "Catalog",
   "links": [
     {
