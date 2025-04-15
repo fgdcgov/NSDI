@@ -20,7 +20,7 @@
     },
     {
       "rel": "child",
-      "href": "https://ngda-address-geoplatform.hub.arcgis.com/api/search/v1/collections/dataset",
+      "href": "https://ngda-address-geoplatform.hub.arcgis.com/api/search/v1/collections/all",
       "title": "Address  \n![Address](https://geoplatform.maps.arcgis.com/sharing/rest/content/items/33ea4eceecce4be294df037cf8004249/data)"
     },
     {
