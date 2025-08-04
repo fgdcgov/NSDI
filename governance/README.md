@@ -1,7 +1,7 @@
 # NSDI COMPONENT | GOVERNANCE
 -------------------------------
 
-This resource provides a list of the ISO Geographic Information/Geomatics standards and the current status of each of the standards.
+
 
 .. note:: 
 
@@ -9,7 +9,7 @@ This resource provides a list of the ISO Geographic Information/Geomatics standa
    
    The FGDC has not adopted or endorsed all of the standards on this list.
 
-   LAST UPDATED | October 15, 2023
+   LAST UPDATED | 
 
 
 .. csv-table:: Listing of ISO Geographic information/Geomatics Standards
