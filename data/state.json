@@ -20,12 +20,12 @@
     },
     {
       "rel": "child",
-      "href": "https://gis.data.alaska.gov/api/search/v1/collections/dataset",
+      "href": "https://api.fgdc.gov/states/ak/",
       "title": "Alaska"
     },
     {
       "rel": "child",
-      "href": "https://azgeo-data-hub-agic.hub.arcgis.com/api/search/v1/collections/dataset",
+      "href": "https://api.fgdc.gov/states/az/",
       "title": "Arizona"
     },
     {
