@@ -16,7 +16,7 @@
     {
       "rel": "child",
       "href": "https://api.fgdc.gov/states/al/",
-      "title": "Alabama"
+      "title": "Alabama  \n![Alabama](https://geoplatform.maps.arcgis.com/sharing/rest/content/items/33ea4eceecce4be294df037cf8004249/data)"
     },
     {
       "rel": "child",
