@@ -1,10 +1,27 @@
 {
-  "id": "state-stac",
-  "stac_version": "1.0.0",
-  "title": " Landsat Global",
-  "description": "This Collection is a virtual catalog of Landsat products developed by providers. \n![NGDA Portfolio](https://geoplatform.maps.arcgis.com/sharing/rest/content/items/9f1c9adb275f4f47b446e91181afa081/data) ",
-  "type": "Catalog",
-  "links": [
+"type": "Catalog",
+"id": "landsat-stac",
+"title": "Landsat Global
+"description": "his Collection is a virtual catalog of Landsat products developed by providers.",
+"stac_version": "1.0.0",
+"conformsTo": [
+"http://www.opengis.net/spec/cql2/1.0/conf/cql2-json",
+"http://www.opengis.net/spec/ogcapi-features-1/1.0/conf/oas30",
+"https://api.stacspec.org/v1.0.0/collections",
+"https://api.stacspec.org/v1.0.0/core",
+"https://api.stacspec.org/v1.0.0/item-search#sort",
+"https://api.stacspec.org/v1.0.0/item-search#query",
+"http://www.opengis.net/spec/ogcapi-features-3/1.0/conf/filter",
+"https://api.stacspec.org/v1.0.0/ogcapi-features",
+"http://www.opengis.net/spec/ogcapi-features-1/1.0/conf/core",
+"http://www.opengis.net/spec/cql2/1.0/conf/basic-cql2",
+"https://api.stacspec.org/v1.0.0/item-search",
+"https://api.stacspec.org/v1.0.0-rc.2/item-search#filter",
+"http://www.opengis.net/spec/cql2/1.0/conf/cql2-text",
+"http://www.opengis.net/spec/ogcapi-features-1/1.0/conf/geojson",
+"https://api.stacspec.org/v1.0.0/item-search#fields"
+],
+"links": [
     {
       "rel": "self",
       "href": "./ngda.json"
