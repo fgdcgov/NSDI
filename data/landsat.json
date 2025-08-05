@@ -1,7 +1,7 @@
 {
 "type": "Catalog",
 "id": "landsat-stac",
-"title": "Landsat Global
+"title": "Landsat Global"
 "description": "his Collection is a virtual catalog of Landsat products developed by providers.",
 "stac_version": "1.0.0",
 "conformsTo": [
