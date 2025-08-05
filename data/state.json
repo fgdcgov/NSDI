@@ -60,8 +60,23 @@
     },
     {
       "rel": "child",
-      "href": "https://api.fgdc.gov/states/in",
+      "href": "https://api.fgdc.gov/states/in/",
       "title": "Indiana"
+    },
+    {
+      "rel": "child",
+      "href": "https://api.fgdc.gov/states/ia/",
+      "title": "Iowa"
+    },
+    {
+      "rel": "child",
+      "href": "https://api.fgdc.gov/states/ks/",
+      "title": "Kansas"
+    },
+    {
+      "rel": "child",
+      "href": "https://api.fgdc.gov/states/ky/",
+      "title": "Kentucky"
     },
     {
       "rel": "child",
