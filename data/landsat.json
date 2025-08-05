@@ -1,64 +1,67 @@
-  {
-    "type": "Catalog",
-    "id": "landsat-stac",
-    "title": "Landsat Global",
-    "description": "This Collection is a virtual catalog of Landsat products developed by providers.",
-    "stac_version": "1.0.0",
-    "conformsTo": [
-    "http://www.opengis.net/spec/cql2/1.0/conf/cql2-json",
-    "http://www.opengis.net/spec/ogcapi-features-1/1.0/conf/oas30",
-    "https://api.stacspec.org/v1.0.0/collections",
-    "https://api.stacspec.org/v1.0.0/core",
-    "https://api.stacspec.org/v1.0.0/item-search#sort",
-    "https://api.stacspec.org/v1.0.0/item-search#query",
-    "http://www.opengis.net/spec/ogcapi-features-3/1.0/conf/filter",
-    "https://api.stacspec.org/v1.0.0/ogcapi-features",
-    "http://www.opengis.net/spec/ogcapi-features-1/1.0/conf/core",
-    "http://www.opengis.net/spec/cql2/1.0/conf/basic-cql2",
-    "https://api.stacspec.org/v1.0.0/item-search",
-    "https://api.stacspec.org/v1.0.0-rc.2/item-search#filter",
-    "http://www.opengis.net/spec/cql2/1.0/conf/cql2-text",
-    "http://www.opengis.net/spec/ogcapi-features-1/1.0/conf/geojson",
-    "https://api.stacspec.org/v1.0.0/item-search#fields"
+{
+  "type": "Catalog",
+  "id": "landsat-stac",
+  "title": "Landsat Global",
+  "description": "This Collection is a virtual catalog of Landsat products developed by providers.",
+  "stac_version": "1.0.0",
+   "conformsTo": [
+        "https://api.stacspec.org/v1.0.0/item-search#fields",
+        "http://www.opengis.net/spec/ogcapi-features-1/1.0/conf/core",
+        "http://www.opengis.net/spec/ogcapi-features-1/1.0/conf/oas30",
+        "https://api.stacspec.org/v1.0.0/ogcapi-features",
+        "https://api.stacspec.org/v1.0.0/item-search#sort",
+        "http://www.opengis.net/spec/ogcapi-features-1/1.0/conf/geojson",
+        "https://api.stacspec.org/v1.0.0/collections",
+        "http://www.opengis.net/spec/ogcapi-features-3/1.0/conf/filter",
+        "https://api.stacspec.org/v1.0.0-rc.2/item-search#filter",
+        "https://api.stacspec.org/v1.0.0/item-search",
+        "http://www.opengis.net/spec/cql2/1.0/conf/basic-cql2",
+        "https://api.stacspec.org/v1.0.0/core",
+        "https://api.stacspec.org/v1.0.0/item-search#query",
+        "http://www.opengis.net/spec/cql2/1.0/conf/cql2-json",
+        "http://www.opengis.net/spec/cql2/1.0/conf/cql2-text"
     ],
     "links": [
-    {
-      "rel": "self",
-      "href": "./landsat.json"
-    },
-    {
-      "rel": "root",
-      "href": "./landsat.json"
-    },
-    {
-      "rel": "child",
-      "href": "https://api.fgdc.gov/industry/gee/landsat/",
-      "title": "Google Earth Engine Catalog | Landsat Collection"
-    },
-    {
-      "rel": "child",
-      "href": "https://api.fgdc.gov/federal/doi/usgs/landsat/",
-      "title": "Landsat "
-    },
-    {
-      "rel": "child",
-      "href": "https://api.fgdc.gov/federal/doi/usgs/landsat/",
-      "title": "Harmonized Landsat Sentinel-2 (HLS) Version 2.0, Landsat Data"
-    },
-    {
-      "rel": "child",
-      "href": "https://api.fgdc.gov/industry/microsoft/landsat/lc2l2",
-      "title": "Landsat Collection 2 Level-2"
-    },
-    {
-      "rel": "child",
-      "href": "https://api.fgdc.gov/industry/microsoft/landsat/hls2",
-      "title": "Microsoft | Harmonized Landsat Sentinel-2 (HLS) Version 2.0, Landsat Data"
-    },
-    {
-      "rel": "child",
-      "href": "https://datacube.services.geo.ca/stac/api/collections/dynamic-surface-water-annual",
-      "title": "Canada | Dynamic Surface Water Maps of Canada from 1984-2023 Landsat Satellite Imagery - Annual Water Masks"
-    }
-  ]
+      {
+        "rel": "self",
+        "type": "application/json",
+        "href": "./landsat.json"
+      },
+      {
+        "rel": "root",
+        "type": "application/json",
+        "href": "./landsat.json"
+      },
+      {
+        "rel": "child",
+        "href": "https://api.fgdc.gov/industry/gee/landsat/",
+        "title": "Google Earth Engine Catalog | Landsat Collection"
+      },
+      {
+        "rel": "child",
+        "href": "https://api.fgdc.gov/federal/doi/usgs/landsat/",
+        "title": "Landsat "
+      },
+      {
+        "rel": "child",
+        "href": "https://api.fgdc.gov/federal/doi/usgs/landsat/",
+        "title": "Harmonized Landsat Sentinel-2 (HLS) Version 2.0, Landsat Data"
+      },
+      {
+        "rel": "child",
+        "href": "https://api.fgdc.gov/industry/microsoft/landsat/lc2l2",
+        "title": "Landsat Collection 2 Level-2"
+      },
+      {
+        "rel": "child",
+        "href": "https://api.fgdc.gov/industry/microsoft/landsat/hls2",
+        "title": "Microsoft | Harmonized Landsat Sentinel-2 (HLS) Version 2.0, Landsat Data"
+      },
+      {
+        "rel": "child",
+        "href": "https://datacube.services.geo.ca/stac/api/collections/dynamic-surface-water-annual",
+        "title": "Canada | Dynamic Surface Water Maps of Canada from 1984-2023 Landsat Satellite Imagery - Annual Water Masks"
+      }
+  ],
+  "stac_extenstion": []
 }
