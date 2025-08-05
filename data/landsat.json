@@ -53,12 +53,12 @@
     {
       "rel": "child",
       "href": "https://api.fgdc.gov/industry/microsoft/landsat/hls2",
-      "title": "Harmonized Landsat Sentinel-2 (HLS) Version 2.0, Landsat Data"
+      "title": "Microsoft | Harmonized Landsat Sentinel-2 (HLS) Version 2.0, Landsat Data"
     },
     {
       "rel": "child",
-      "href": "https://ngda-water-oceans-and-coasts-geoplatform.hub.arcgis.com/api/search/v1/collections/dataset",
-      "title": "Water - Oceans and Coasts"
+      "href": "https://datacube.services.geo.ca/stac/api/collections/dynamic-surface-water-annual",
+      "title": "Dynamic Surface Water Maps of Canada from 1984-2023 Landsat Satellite Imagery - Annual Water Masks"
     }
   ]
 }
