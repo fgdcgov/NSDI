@@ -58,7 +58,7 @@
     {
       "rel": "child",
       "href": "https://datacube.services.geo.ca/stac/api/collections/dynamic-surface-water-annual",
-      "title": "Dynamic Surface Water Maps of Canada from 1984-2023 Landsat Satellite Imagery - Annual Water Masks"
+      "title": "Canada | Dynamic Surface Water Maps of Canada from 1984-2023 Landsat Satellite Imagery - Annual Water Masks"
     }
   ]
 }
