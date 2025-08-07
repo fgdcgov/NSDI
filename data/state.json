@@ -2,7 +2,7 @@
   "id": "state-stac",
   "stac_version": "1.0.0",
   "title": " State",
-  "description": "This Collection is a virtual catalog of resources provided by State Institutions in the United States.",
+  "description": "This Collection is a virtual catalog of resources provided by States in the United States.",
   "type": "Catalog",
   "links": [
     {
