@@ -49,12 +49,12 @@
       },
       {
         "rel": "child",
-        "href": "https://api.fgdc.gov/industry/microsoft/landsat/lc2l2",
+        "href": "https://api.fgdc.gov/industry/microsoft/landsat/lc2l2/",
         "title": "Landsat Collection 2 Level-2"
       },
       {
         "rel": "child",
-        "href": "https://api.fgdc.gov/industry/microsoft/landsat/hls2",
+        "href": "https://api.fgdc.gov/industry/microsoft/landsat/hls2/",
         "title": "Microsoft | Harmonized Landsat Sentinel-2 (HLS) Version 2.0, Landsat Data"
       },
       {
